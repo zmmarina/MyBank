@@ -22,3 +22,5 @@
 2020-08-08T12:23:59.394Z [my-bank] info : API started
 2020-08-08T12:24:11.732Z [my-bank] info : API started
 2020-08-08T12:24:54.463Z [my-bank] info : API started
+2020-08-08T12:25:09.776Z [my-bank] info : API started
+2020-08-08T12:25:47.127Z [my-bank] error : PUT /account - All fields are mandatory
